@@ -116,3 +116,36 @@ PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
 [Sun Jul 28 23:16:07.534676 2019] [mpm_winnt:notice] [pid 3188:tid 560] AH00418: Parent: Created child process 4804
 PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
 [Sun Jul 28 23:16:08.630835 2019] [mpm_winnt:notice] [pid 4804:tid 124] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 29 02:11:01.192217 2019] [mpm_winnt:notice] [pid 3188:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 29 02:11:03.205868 2019] [mpm_winnt:notice] [pid 4804:tid 124] AH00364: Child: All worker threads have exited.
+[Mon Jul 29 02:11:03.250474 2019] [mpm_winnt:notice] [pid 3188:tid 560] AH00430: Parent: Child process 4804 exited successfully.
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Mon Jul 29 02:50:32.213070 2019] [mpm_winnt:notice] [pid 2244:tid 660] AH00455: Apache/2.4.39 (Win64) PHP/7.3.7 configured -- resuming normal operations
+[Mon Jul 29 02:50:32.213568 2019] [mpm_winnt:notice] [pid 2244:tid 660] AH00456: Apache Lounge VS16 Server built: May 28 2019 17:12:51
+[Mon Jul 29 02:50:32.213568 2019] [core:notice] [pid 2244:tid 660] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Jul 29 02:50:32.216052 2019] [mpm_winnt:notice] [pid 2244:tid 660] AH00418: Parent: Created child process 8344
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Mon Jul 29 02:50:32.943043 2019] [mpm_winnt:notice] [pid 8344:tid 604] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 29 03:03:15.991060 2019] [mpm_winnt:notice] [pid 2244:tid 660] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 29 03:03:18.012535 2019] [mpm_winnt:notice] [pid 8344:tid 604] AH00364: Child: All worker threads have exited.
+[Mon Jul 29 03:03:18.056534 2019] [mpm_winnt:notice] [pid 2244:tid 660] AH00430: Parent: Child process 8344 exited successfully.
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Mon Jul 29 03:04:24.247560 2019] [mpm_winnt:notice] [pid 3208:tid 684] AH00455: Apache/2.4.39 (Win64) PHP/7.3.7 configured -- resuming normal operations
+[Mon Jul 29 03:04:24.247560 2019] [mpm_winnt:notice] [pid 3208:tid 684] AH00456: Apache Lounge VS16 Server built: May 28 2019 17:12:51
+[Mon Jul 29 03:04:24.247560 2019] [core:notice] [pid 3208:tid 684] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Jul 29 03:04:24.250885 2019] [mpm_winnt:notice] [pid 3208:tid 684] AH00418: Parent: Created child process 4832
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Mon Jul 29 03:04:25.310355 2019] [mpm_winnt:notice] [pid 4832:tid 128] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 29 03:21:19.120409 2019] [mpm_winnt:notice] [pid 3208:tid 684] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 29 03:21:21.792925 2019] [mpm_winnt:notice] [pid 4832:tid 128] AH00364: Child: All worker threads have exited.
+[Mon Jul 29 03:21:21.835940 2019] [mpm_winnt:notice] [pid 3208:tid 684] AH00430: Parent: Child process 4832 exited successfully.
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Mon Jul 29 11:17:15.147920 2019] [mpm_winnt:notice] [pid 6576:tid 680] AH00455: Apache/2.4.39 (Win64) PHP/7.3.7 configured -- resuming normal operations
+[Mon Jul 29 11:17:15.147920 2019] [mpm_winnt:notice] [pid 6576:tid 680] AH00456: Apache Lounge VS16 Server built: May 28 2019 17:12:51
+[Mon Jul 29 11:17:15.147920 2019] [core:notice] [pid 6576:tid 680] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Jul 29 11:17:15.147920 2019] [mpm_winnt:notice] [pid 6576:tid 680] AH00418: Parent: Created child process 4788
+PHP Warning:  Module 'mysqli' already loaded in Unknown on line 0
+[Mon Jul 29 11:17:15.960585 2019] [mpm_winnt:notice] [pid 4788:tid 612] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 29 14:35:59.239383 2019] [mpm_winnt:notice] [pid 6576:tid 680] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 29 14:36:01.243198 2019] [mpm_winnt:notice] [pid 4788:tid 612] AH00364: Child: All worker threads have exited.
+[Mon Jul 29 14:36:01.352509 2019] [mpm_winnt:notice] [pid 6576:tid 680] AH00430: Parent: Child process 4788 exited successfully.
